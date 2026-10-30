@@ -1,4 +1,4 @@
-package app.ahmedyarub.extension.instagram;
+package app.ahmedyarub.extension.instagram
 
 import android.os.SystemClock;
 import android.view.MotionEvent;
